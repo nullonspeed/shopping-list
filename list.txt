@@ -19,3 +19,6 @@
 - piza
  - döner
  - winterspritza
+ - lebkuchen
+ - glühwein
+
