@@ -28,3 +28,4 @@
  - weintrauben
  - kaffe
  - paprika gewürz geräuchert
+ - essen
