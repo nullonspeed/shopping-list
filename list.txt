@@ -27,3 +27,4 @@
  - karotn
  - weintrauben
  - kaffe
+ - paprika gewürz geräuchert
